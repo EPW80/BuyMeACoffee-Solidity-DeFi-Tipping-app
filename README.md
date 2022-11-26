@@ -1,4 +1,4 @@
-You can see a demo of this repo on Replit : https://replit.com/@thatguyintech/BuyMeACoffee-Solidity-DeFi-Tipping-app
+BuyMeACoffee-Solidity-DeFi-Tipping-app
 
 ## Getting Started
 
