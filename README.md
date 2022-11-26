@@ -22,6 +22,10 @@ To customize the website to load info from your own contract, change the followi
 - Update `utils/BuyMeACoffee.json` to match the json artifact for your contract after compilation.
 - Update the name and footer text in `pages/index.js` to your own name and info.
 
+## Demo:
+
+![](./public/demo%20dapp.gif)
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
